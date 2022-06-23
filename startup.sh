@@ -1,4 +1,6 @@
 #!/bin/bash
+#SUDO                 2022              SERVERHU.EU
+
 normal_startup() {
     echo "A mappa nem üres, szerver indítás folyamatban."
         cd /data && \
