@@ -15,7 +15,7 @@ installnstartup() {
         cp -R /root/JourneyHostingD-MTA/baseconfig/* /root/JourneyHostingD-MTA/temp/mods/deathmatch/resources && \
         mkdir /root/JourneyHostingD-MTA/temp/mods/deathmatch/resources && \
         cd /root/JourneyHostingD-MTA/temp/mods/deathmatch/resources && \
-        cp -R /root/JourneyHostingD-MTA/mtasa-resources-latest.zip /root/JourneyHostingD-MTA/temp/mods/deathmatch/resources && \
+        cp /root/JourneyHostingD-MTA/mtasa-resources-latest.zip /root/JourneyHostingD-MTA/temp/mods/deathmatch/resources && \
         unzip mtasa-resources-latest.zip && \
         rm -rf mtasa-resources-latest.zip && \
         cd /root/JourneyHostingD-MTA && \
