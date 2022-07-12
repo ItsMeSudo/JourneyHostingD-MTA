@@ -1,6 +1,6 @@
-#JourneyHosting Dockerfile Multi Theft Auto szerver
+# JourneyHosting Dockerfile Multi Theft Auto szerver
 
-#SUDO                 2022              SERVERHU.EU
+# SUDO                 2022              SERVERHU.EU
 
 Példa:
 
